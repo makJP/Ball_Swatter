@@ -33,3 +33,6 @@ This is a Python-based game that utilizes OpenCV and MediaPipe for hand tracking
 - Adding levels or increasing difficulty modes.
 - Introducing different types of gestures for more interactive gameplay.
 - High-score tracking and leaderboards.
+
+# Reference link
+https://drive.google.com/file/d/1u31x6Wihc9UQgA80rAuiJo8uXfxasGQE/view?usp=drive_link
